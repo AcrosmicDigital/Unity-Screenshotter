@@ -2,6 +2,7 @@
 Take screenshots from Unity Game view.
   - New Input System required
   - Tested with Input System v1.2.0
+  - Screenshots are taken with the Game view resolution and Aspect Ratio
 
 ## Instal
   0. You must have the New Input System package
