@@ -22,7 +22,7 @@ Take screenshots from Unity Game view.
   - Folder: Subfolder where the images will be saved, this folder is created automatically (Examples: Level1 | World1/Level1)
 
 ## Take ScreenShots while playing
-The UseKey and UsePad only works in Editor, to take screenshots when the game was exported, you can call this functions from the ScreenshotterNewInputS component
+The UseKey and UsePad only works in Editor, to take screenshots when the game was exported, you can call this functions of the ScreenshotterNewInputS component
   - TakeScreenshot(string folder, string name)
   - TakeScreenshotInFolder(string folder)
   - TakeScreenshot(string name)
